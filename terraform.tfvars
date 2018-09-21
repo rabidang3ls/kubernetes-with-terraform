@@ -1,0 +1,5 @@
+admin_password = ""
+aws_ssh_key = ""
+base_domain = ""
+cluster_name = ""
+aws_region = ""
